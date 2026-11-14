@@ -27,7 +27,31 @@ A controlled SQL Injection learning project using **Damn Vulnerable Web Applicat
 
 ```text
 Task-9-SQL-Injection/
+SQL-Injection-on-DVWA-Low-Security/
+│
 ├── README.md
+├── LICENSE
+├── sql_injection_exploit.sh
+│
+├── screenshots/
+│   ├── docker-version.jpg
+│   ├── dvwa-image-pull.jpg
+│   ├── dvwa-container-running.jpg
+│   ├── dvwa-security-low.jpg
+│   ├── sql-injection-low-result.jpg
+│   └── sql-injection-baseline.jpg
+│
+├── payloads/
+│   └── manual-payloads.md
+│
+├── reports/
+│   ├── vulnerability-report.md
+│   └── remediation/
+│       ├── python-fix.py
+│       └── php-fix.php
+│
+└── docs/
+    └── installation-guide.md README.md
 ├── LICENSE
 ├── sql_injection_exploit.sh
 ├── screenshots/
