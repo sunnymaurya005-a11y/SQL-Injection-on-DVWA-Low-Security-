@@ -1,4 +1,4 @@
-# Task 9 — SQL Injection Testing (DVWA)
+# Task 3 — SQL Injection Testing (DVWA)
 
 A controlled SQL Injection learning project using **Damn Vulnerable Web Application (DVWA)** hosted locally with Docker on Kali Linux.
 
